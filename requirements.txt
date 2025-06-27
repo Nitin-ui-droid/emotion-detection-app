@@ -1,7 +1,6 @@
 streamlit==1.35.0
-tensorflow==2.14.0
+tensorflow==2.11.0
 scikit-learn
 pandas
 nltk
 googletrans==4.0.0-rc1
-
